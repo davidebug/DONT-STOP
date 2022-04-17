@@ -1,4 +1,7 @@
 # DON'T STOP!
+
+https://polimi-game-collective.itch.io/dont-stop
+
 ![HPuX6M](https://user-images.githubusercontent.com/33726212/163722144-7d75f3f2-05bc-4c34-9606-71754d75f1ef.png)
 
 
@@ -24,7 +27,10 @@ Creator (Mouse and Keyboard):
 Create: Hold ←/↓/→ + Left Click
 
 ![5pmGsM](https://user-images.githubusercontent.com/33726212/163722203-e5fc4084-be92-4c38-949f-4a0e3503beb7.jpg)
-![FuG0yI](https://user-images.githubusercontent.com/33726212/163722213-0d3ca204-9633-4b97-bd7e-fee97c41585a.jpg)
 ![IQICiy](https://user-images.githubusercontent.com/33726212/163722224-e6ec9ba2-19e0-4970-930b-ffb4bc262733.jpg)
+![FuG0yI](https://user-images.githubusercontent.com/33726212/163722213-0d3ca204-9633-4b97-bd7e-fee97c41585a.jpg)
+![xIorkp](https://user-images.githubusercontent.com/33726212/163722314-6ccf7ae4-e2da-4b67-a0ca-4b9c0d836dc3.jpg)
+![0TuxDE](https://user-images.githubusercontent.com/33726212/163722342-38d79c28-6be6-41a2-95fd-7731940c46d9.jpg)
 
-# Developed for the course "Videogame Design and Programming" @Politecnico di Milano
+
+- Developed for the course "Videogame Design and Programming" @Politecnico di Milano -
